@@ -36,7 +36,7 @@ Chest-Xray-Classification/
 ├── dataset/                  # Chest X-ray images
 ├── main.py                   # Main source code
 ├── README.md                 # Project documentation
-└── output/                   # Generated results (optional)
+└── output/                   # Generated results
 ```
 
 ---
